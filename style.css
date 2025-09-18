@@ -4,6 +4,12 @@ body {
 }
 
 h1{
-   font-size: 30px;
-   align-items: center;
+   font-size: 30px;          /*tamanho da fonte*/
+  text-align: center;        /*centralizando*/
+  text-transform:uppercase;  /*letras maíusculas*/
+}
+
+p {
+font-size: 16px;
+color: green;
 }
